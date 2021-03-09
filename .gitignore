@@ -1,0 +1,4 @@
+.keystone
+node_modules
+.env
+.next

@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#524dff",
+    "titleBar.inactiveBackground": "#f707f7"
+  }
+  // "eslint.alwaysShowStatus": true
+  // "prettier.disableLanguages": ["javascript", "javascriptreact"]
+}
